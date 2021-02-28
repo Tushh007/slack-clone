@@ -6,8 +6,10 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <Sidebar />
-      {/**React-Router -> Chat screen */}
+      <div className="app__body">
+        <Sidebar />
+        {/**React-Router -> Chat screen */}
+      </div>
     </div>
   );
 }
