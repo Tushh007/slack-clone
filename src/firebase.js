@@ -8,8 +8,8 @@ const firebaseConfig = {
   projectId: 'slack-clone-913c8',
   storageBucket: 'slack-clone-913c8.appspot.com',
   messagingSenderId: '333101197804',
-  appId: '1:333101197804:web:7f511b321c577a3044f8c9',
-  measurementId: 'G-ME9FDP0XNN',
+  appId: '1:333101197804:web:3b318849ca1fa87e44f8c9',
+  measurementId: 'G-0WYXVKR68V',
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
